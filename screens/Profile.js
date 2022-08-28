@@ -87,7 +87,7 @@ export default class Profile extends Component {
           <View style={styles.appTitle}>
             <View style={styles.appIcon}>
               <Image
-                source={require("../assets/logo.png")}
+                source={require("../assets/dogIcon.png")}
                 style={styles.iconImage}
               ></Image>
             </View>
